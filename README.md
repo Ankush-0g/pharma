@@ -1,13 +1,13 @@
 # Pharmacy Management System (PharmaFlow)
 
-A modern, full-stack pharmacy management application built with React, Express, and AI-powered insights. PharmaStream provides a comprehensive suite of tools for inventory control, sales management, and financial reporting.
+A modern, full-stack pharmacy management application built with React, Express. PharmaStream provides a comprehensive suite of tools for inventory control, sales management, and financial reporting.
 
 ## 🚀 Features
 
 ### 📊 Dashboard
 - Real-time performance metrics (Revenue, Critical Stock, Orders).
 - Sales trends visualization using Recharts.
-- AI-driven suggestions for inventory optimization and marketing.
+- AI-driven suggestions for inventory optimization and marketing.(Gemini)
 
 ### 📦 Inventory Management
 - **Bulk Operations**: Select multiple items to delete or mark as low stock.
