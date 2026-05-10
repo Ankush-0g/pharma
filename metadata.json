@@ -1,0 +1,12 @@
+{
+  "name": "PharmaFlow - Medical Billing & Pharmacy Management",
+  "description": "A high-performance pharmacy management system with fast POS billing, expiry tracking, AI drug suggestions, and comprehensive inventory management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered drug suggestions",
+    "Real-time inventory tracking",
+    "GST compliant billing"
+  ]
+}
