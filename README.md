@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.pharmaflow.org/">
+<img width="1200" height="475"  src="https://www.pharmaflow.org/">
 </div>
 
 # Run and deploy 
